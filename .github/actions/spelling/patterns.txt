@@ -13,7 +13,7 @@
 # GitHub JSON
 "node_id": "[-a-zA-Z=;:/0-9+]*"
 # Contributor
-\[[^\]]+]\(?:https://github\.com/[^/]+\)
+\[[^\]]+]\(https://github\.com/[^/]+\)
 
 # ignore long runs of a single character:
 \b([A-Za-z])\g{-1}{3,}\b
