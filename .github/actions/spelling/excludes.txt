@@ -16,3 +16,4 @@ ignore$
 \.wav$
 ^\.github/
 ^source/(?!en)..(?:-[^/]*|)/
+^\Qconfig.rb\E$
